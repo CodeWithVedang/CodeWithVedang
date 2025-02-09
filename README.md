@@ -14,4 +14,4 @@
 
 📫 Connect with me:
 - LinkedIn: https://in.linkedin.com/in/vedang-shelatkar-b3839a26a
-- All in One Link: https://linktr.ee/__vedangs__
+- All in One Link: [https://linktr.ee/__vedangs__](https://linktr.ee/__vedangs__)
