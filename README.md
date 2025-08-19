@@ -27,9 +27,9 @@
 
 # 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,python,kotlin,php,r,html,css" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,angular,express,dotnet,mysql,firebase,vercel,gcp,git,github,gitlab" /><br/>
-  <img src="https://skillicons.dev/icons?i=figma,xd,ai,ps,canva" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,python,kotlin,php,html,css" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,firebase,vercel,git,github,gitlab" /><br/>
+  <img src="https://skillicons.dev/icons?i=figma,xd,canva" />
 </p>
 
 ---
