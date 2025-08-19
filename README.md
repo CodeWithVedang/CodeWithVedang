@@ -1,7 +1,7 @@
-<!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=180&section=header&text=CodeWithVedang🚀&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Vedang+🚀;MCA+Student+%7C+Developer;Building+Projects+That+Matter;Always+Learning+%26+Sharing" alt="Typing Animation" />
 </p>
+
 
 ---
 
