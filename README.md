@@ -20,7 +20,7 @@
 <p align="center">
   <a href="https://instagram.com/__vedangs__"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
   <a href="https://linkedin.com/in/vedang-shelatkar-b3839a26a"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="mailto:a240294@famt.ac.in"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+  <a href="mailto:shelatkarvedang2@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
 </p>
 
 ---
